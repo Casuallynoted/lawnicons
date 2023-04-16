@@ -246,6 +246,7 @@
   <item component="ComponentInfo{com.bandsintown/com.bandsintown.SplashScreen}" drawable="bandsintown" name="Bandsintown" />
   <item component="ComponentInfo{me.austinhuang.instagrabber/awais.instagrabber.activities.MainActivity}" drawable="barinsta" name="Barinsta" />
   <item component="ComponentInfo{me.austinhuang.instagrabber/awais.instagrabber.activities.Main}" drawable="barinsta" name="Barinsta" />
+  <item component="ComponentInfo{com.furryapp/com.furryapp.MainActivity}" drawable="barq" name="Barq" />
   <item component="ComponentInfo{com.paget96.batteryguru/com.paget96.batteryguru.activities.SplashScreen}" drawable="battery_guru" name="Battery Guru" />
   <item component="ComponentInfo{com.blizzard.bma/com.blizzard.bma.SplashActivity}" drawable="battlenet_authenticator" name="BattleNet Authenticator" />
   <item component="ComponentInfo{com.blizzard.bma/com.blizzard.bma.ui.welcome.SplashActivity}" drawable="battlenet_authenticator" name="BattleNet Authenticator" />
@@ -2104,6 +2105,7 @@
   <item component="ComponentInfo{com.hogeschoolrotterdam.student/com.hogeschoolrotterdam.student.MainActivity}" drawable="mijn_hr" name="Mijn HR" />
   <item component="ComponentInfo{nl.tele2.mytele2/nl.oberon.tmobile.my.activity.LoginActivity}" drawable="tele2" name="Mijn Tele2" />
   <item component="ComponentInfo{com.milanote.milanoteApp/com.milanote.milanoteApp.MainActivity}" drawable="milanote" name="Milanote" />
+  <item component="ComponentInfo{jp.panta.misskeyandroidclient/jp.panta.misskeyandroidclient.MainActivity}" drawable="milktea" name="Milktea" />
   <item component="ComponentInfo{com.getmimo/com.getmimo.ui.SplashActivity}" drawable="mimo" name="Mimo" />
   <item component="ComponentInfo{com.fedosov.mindtracker/com.fedosov.mindtracker.MainActivity}" drawable="mind_tracker" name="Mind Tracker" />
   <item component="ComponentInfo{com.mojang.minecraftpe/com.d.a}" drawable="minecraft" name="Minecraft" />
